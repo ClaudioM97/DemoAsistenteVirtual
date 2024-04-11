@@ -1,13 +1,13 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import streamlit as st
 import os
 from functions import *
 from dotenv import load_dotenv
 import openai
 from PIL import Image
-
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
