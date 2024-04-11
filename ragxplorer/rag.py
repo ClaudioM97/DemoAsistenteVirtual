@@ -9,6 +9,7 @@ import os
 import uuid
 from typing import List, Any
 import chromadb
+import chromadb.config
 import numpy as np
 from PyPDF2 import PdfReader
 from sentence_transformers import CrossEncoder
