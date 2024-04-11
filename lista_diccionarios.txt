@@ -1,0 +1,182 @@
+[
+    {
+        "Fecha creación": "No especificada",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo",
+        "Título": "Estrategias competitivas para el comercio minorista",
+        "Autor": "No especificado",
+        "Resumen": "El artículo aborda la importancia de tomar decisiones estratégicas fundamentales antes de abrir un negocio minorista, centrándose en la necesidad de agregar valor a los productos para ser exitoso. Se mencionan tres estrategias básicas y ofertas para añadir valor: la mayor variedad, el precio más bajo o el mejor servicio. Se destaca la importancia de ser competitivo en las tres áreas y superar las expectativas de los clientes en al menos una de ellas.",
+        "Ideas principales": "- Antes de abrir un negocio minorista, es fundamental tomar decisiones estratégicas sobre dónde encajará la tienda en el mercado actual.\n- Es crucial definir qué se está tratando de lograr con el negocio y por qué un cliente debería comprar en la tienda.\n- Las tres estrategias básicas para agregar valor a los productos son: la mayor variedad, el precio más bajo o el mejor servicio.\n- Para ser exitoso, es necesario ser competitivo en las tres áreas y superar las expectativas de los clientes en al menos una de ellas.\n- La estrategia de precio más bajo implica economías de escala y reducir al máximo los costos del negocio.\n- Si no se puede competir en variedad y precio, la única opción para un minorista operado por el propietario es la estrategia de mejor servicio.\n- La clave para esta estrategia es hacer del servicio el corazón y alma del negocio, centrándose en las necesidades de los clientes.\n- Es fundamental estructurar el negocio para que todas las decisiones se enfoquen en el servicio, sin descuidar la variedad y el precio.\n- La selección de productos y las políticas de precios son aspectos clave a considerar para tener éxito en el comercio minorista.",
+        "Keywords": "estrategias competitivas, comercio minorista, valor agregado, variedad, precio, servicio, éxito, clientes"
+    },
+    {
+        "Fecha creación": "2023",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Informe de perspectivas de la industria minorista",
+        "Título": "Perspectivas de la industria minorista 2023 de Deloitte",
+        "Autor": "Nick Handrinos y Lupine Skelly",
+        "Resumen": "El informe de Deloitte sobre las perspectivas de la industria minorista para 2023 destaca la importancia de la resiliencia y la adaptación a los cambios en el comportamiento del consumidor. Se enfoca en la necesidad de inversiones estratégicas para impulsar el crecimiento rentable en un entorno desafiante, marcado por la inflación y la incertidumbre económica. Se analizan las lecciones aprendidas de líderes del sector, los imperativos para la rentabilidad y se ofrecen recomendaciones clave para los minoristas.",
+        "Ideas principales": "- Los minoristas deben adaptarse a los cambios en el comportamiento del consumidor y considerar inversiones estratégicas para el crecimiento rentable durante tiempos inflacionarios.\n- La resiliencia y la adaptabilidad son clave para enfrentar los desafíos del mercado minorista en 2023.\n- Se destacan áreas clave para la rentabilidad, como las capacidades de última milla, la logística inversa y el comercio social.\n- Los líderes del sector minorista se caracterizan por su enfoque en segmentos resilientes, balances sólidos y avances en iniciativas estratégicas a largo plazo.\n- La inversión en marketing, omnicanalidad, transformación digital y cadena de suministro es prioritaria para los líderes del sector.",
+        "Keywords": "Deloitte, perspectivas, industria minorista, resiliencia, comportamiento del consumidor, crecimiento rentable, inflación, estrategias, inversión, cadena de suministro, omnicanalidad, logística inversa, comercio social"
+    },
+    {
+        "Fecha creación": "10/01/2023",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Noticias",
+        "Título": "Las cinco tendencias del retail para 2023",
+        "Autor": "Inforetail",
+        "Resumen": "El retail en 2023 se verá marcado por cinco tendencias principales: la combinación del comercio físico y digital, la experiencia omnicanal, la consolidación del móvil como medio de pago preferido, el auge de los marketplaces y la creciente conciencia del consumidor por su seguridad. Estas tendencias están siendo impulsadas por la plataforma de tecnología financiera Adyen.",
+        "Ideas principales": "1. 2023 será el año del phygital, con una compra híbrida que permite al cliente decidir entre entornos físicos y digitales.\n2. El comercio unificado seguirá siendo fundamental, con el 75% de las empresas en España buscando una experiencia unificada en tienda y online.\n3. El móvil se consolidará como dispositivo de compra favorito, especialmente entre la generación Z.\n4. La preferencia por realizar compras en marketplaces como Amazon se incrementa, buscando una sola plataforma para todas las compras.\n5. Mayor conciencia de la seguridad por parte de los consumidores, con un enfoque en controlar el fraude en los pagos online.",
+        "Keywords": "Retail, tendencias, 2023, phygital, omnicanal, móvil, marketplaces, seguridad, Adyen"
+    },
+    {
+        "Fecha creación": "9 de enero de 2023",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo de tendencias en la industria del retail",
+        "Título": "Tendencias que permearán en la industria del retail durante 2023",
+        "Autor": "Equipo editorial de The Food Tech",
+        "Resumen": "El artículo analiza las tendencias que influirán en la industria del retail durante 2023, destacando la implementación de nuevas tecnologías para crear una experiencia en línea más inmersiva, la digitalización en la relación con el cliente, la importancia de la personalización y la sostenibilidad, así como el impacto de la tecnología en la interacción con los clientes. Se menciona el cambio de paradigma post-COVID-19 y la necesidad de ajustar presupuestos y previsiones para adaptarse a las nuevas demandas del sector.",
+        "Ideas principales": "- La implementación de nuevas tecnologías busca crear una experiencia en línea más inmersiva.\n- Se destaca la importancia de la digitalización en la relación con el cliente y la comunicación interna.\n- La personalización y la experiencia del cliente son cada vez más relevantes.\n- La sostenibilidad y la responsabilidad social y ambiental ganan importancia en el retail.\n- La tecnología e innovación están transformando la interacción con los clientes.\n- Se menciona la recopilación de datos, la inteligencia artificial, la realidad aumentada, la innovación en los pagos, la robótica y la automatización como herramientas clave en el sector.\n- El uso de videos en el retail está en aumento para mejorar la experiencia del cliente.",
+        "Keywords": "Retail, tendencias, tecnología, digitalización, personalización, sostenibilidad, inteligencia artificial, realidad aumentada, innovación, robótica, videos"
+    },
+    {
+        "Fecha creación": "No especificada",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Informe de tendencias de la industria",
+        "Título": "Future of Omnichannel Retailing: The Loyalty People Comarch Forward",
+        "Autor": "Tom Peace",
+        "Resumen": "El informe presenta una serie de 6 whitepapers sectoriales escritos en colaboración con Comarch para proporcionar información valiosa sobre desafíos y soluciones específicas en el sector minorista. Se enfoca en la importancia del retail omnicanal y cómo las empresas pueden impulsar el compromiso del cliente y el crecimiento rentable.",
+        "Ideas principales": "- El retail omnicanal implica comprender los viajes de compra de los clientes y los puntos de contacto que experimentan en tiendas físicas y en línea.\n- La implementación de e-commerce no elimina la necesidad de presencia física en el retail.\n- Tres factores impulsan la adopción del modelo omnicanal: cambio en el comportamiento del consumidor online, avances tecnológicos y presión de los fabricantes.\n- Se destaca la importancia de una estrategia de datos del cliente para una experiencia omnicanal exitosa.\n- Comarch ofrece tecnología y soporte empresarial para crear experiencias personalizadas y omnicanal.",
+        "Keywords": "Omnicanal, Retail, Comarch, Experiencia del cliente, Estrategia de datos, Tecnología, Lealtad"
+    },
+    {
+        "Fecha creación": "March 14, 2023",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Article",
+        "Título": "Customer Strategy: 8 Best Practices for Creating a Compelling Customer Experience",
+        "Autor": "G. Tomas M. Hult",
+        "Resumen": "El autor comparte ocho áreas clave para crear y gestionar experiencias de cliente convincentes a lo largo del viaje del cliente. Estas áreas incluyen la orquestación del ecosistema de marketing, la alineación de las necesidades de la empresa y del cliente, la entrega de conveniencia al cliente, el refuerzo del marketing digital, el ajuste de incentivos para los clientes, la creación de evangelistas de clientes, la gestión de devoluciones de productos, y más.",
+        "Ideas principales": "- Orquestación del ecosistema de marketing\n- Alineación de las necesidades de la empresa y del cliente\n- Entrega de conveniencia al cliente\n- Refuerzo del marketing digital\n- Ajuste de incentivos para los clientes\n- Cultivo de evangelistas de clientes\n- Gestión de devoluciones de productos\n- Importancia de crear y gestionar experiencias de cliente convincentes",
+        "Keywords": "Customer strategy, Customer experience, Marketing ecosystem, Customer needs, Digital marketing, Customer incentives, Customer evangelists, Product returns"
+    },
+    {
+        "Fecha creación": "10 january 2022",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo",
+        "Título": "How to Be Successful in Retail: Five Leaders Share Their Top Tips",
+        "Autor": "Giada Pezzini",
+        "Resumen": "El artículo destaca las estrategias clave para tener éxito en el sector minorista, compartidas por cinco líderes del pasado y del presente. Se enfoca en la importancia de crear una experiencia de consumidor unificada, hacer que las compras físicas sean atractivas, incorporar valores de sostenibilidad, mantener a los empleados motivados y abrazar el cambio constante en el sector.",
+        "Ideas principales": "- Crear una experiencia de consumidor unificada a través de un sistema de gestión de pedidos, base de datos e inventario centralizados.\n- Hacer que las compras físicas sean atractivas y centrarse en la experiencia del cliente.\n- Incorporar valores de sostenibilidad en toda la operación del negocio.\n- Mantener a los empleados motivados a través de la participación y el reconocimiento.\n- Abrazar el cambio constante y adaptarse a las necesidades cambiantes de los clientes.",
+        "Keywords": "Retail, éxito, estrategias, experiencia del cliente, sostenibilidad, motivación de empleados, cambio constante"
+    },
+    {
+        "Fecha creación": "2018",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Informe Anual",
+        "Título": "Memoria Anual 2018 Falabella",
+        "Autor": "Investors.falabella.com",
+        "Resumen": "La memoria anual de Falabella 2018 resalta la mejora en la experiencia del cliente en América Latina a través de avances logísticos, aumento de transacciones electrónicas, y la adquisición e integración de Linio e Ikea. Destaca la importancia de exceder las expectativas de los clientes, el desarrollo de los empleados, gestión ambiental responsable y creación de valor social. Se enfatiza en estrategias de remodelación, digitalización y responsabilidad social empresarial, junto con un enfoque en la ética y sostenibilidad en el gobierno corporativo.",
+        "Ideas principales": "- Avances en logística y operaciones del centro de distribución omnicanal.\n- Aumento de transacciones electrónicas y adquisición de Linio.\n- Desarrollo e implementación de Ikea en Chile, Perú y Colombia.\n- Enfoque en superar expectativas de clientes y desarrollo integral de trabajadores.\n- Implementación de estrategias de remodelación de tiendas y acuerdos con Google Pay.\n- Integración de logística omnicanal y CMR con Banco Falabella.\n- Importancia de la inversión social y programas de responsabilidad social empresarial.\n- Énfasis en ética, responsabilidad social y sostenibilidad en gobierno corporativo.\n- Reconocimientos en diferentes áreas como retail y servicios financieros.\n- Adaptación y cumplimiento con normativas internacionales como NIIF 9.",
+        "Keywords": "Falabella, logística, transacciones electrónicas, Ikea, responsabilidad social, sostenibilidad, remodelación de tiendas, digitalización, gobierno corporativo, NIIF 9"
+    },
+    {
+        "Fecha creación": "2019",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Informe Anual",
+        "Título": "Memoria Anual 2019 Falabella",
+        "Autor": "Falabella S.A.",
+        "Resumen": "La Memoria Anual 2019 de Falabella resalta la digitalización y el comercio electrónico como claves para el éxito, destacando la integración de canales físicos y digitales y el desarrollo internacional. Enfatiza el compromiso con la sostenibilidad y la responsabilidad social, destacando prácticas de seguridad, diversidad e inclusión, junto con estrategias para una cadena de suministro responsable. Informa sobre el desarrollo sustentable en Sodimac y la inversión en tecnología y eficiencia energética, subrayando también los desafíos y respuestas a eventos adversos en Chile.",
+        "Ideas principales": "- Falabella destaca su liderazgo en el comercio electrónico y la importancia de la digitalización en el negocio.\n- Se enfatiza la integración de canales físicos y digitales para mejorar la experiencia del cliente.\n- La compañía continúa su desarrollo internacional, con proyectos en México, Perú, y Colombia, incluyendo la expansión de la marca IKEA.\n- Se resalta el compromiso con la sostenibilidad y la responsabilidad social, incluyendo programas de educación, innovación, y cuidado del medio ambiente.\n- Penetración de marcas propias de Falabella alcanzó el 27% de las ventas de retail en 2019.\n- Crecimiento significativo en tráfico pagado y orgánico a través de campañas digitales.\n- Integración de catálogos de Falabella, Sodimac y Tottus a nivel regional.\n- Mejoras en logística con centros de distribución especializados.\n- Avances en sistemas tecnológicos y programas de fidelización.\n- Desarrollo de talento a través de programas de capacitación y evaluaciones de desempeño.",
+        "Keywords": "Falabella, Memoria Anual, 2019, comercio electrónico, digitalización, integración de canales, desarrollo internacional, sostenibilidad, responsabilidad social, eficiencia energética"
+    },
+    {
+        "Fecha creación": "2020",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Informe empresarial",
+        "Título": "Memoria Anual 2020 Falabella",
+        "Autor": "Falabella",
+        "Resumen": "La Memoria Anual 2020 de Falabella resalta los retos y éxitos en el año de la pandemia, enfocándose en la digitalización y el comercio electrónico para adaptarse a los cambios. Subraya el compromiso con todas las partes interesadas y sus estrategias para un valor sostenible, destacando la gestión de personas, la sostenibilidad, y la respuesta a la COVID-19. Incluye iniciativas como Arte Falabella y programas de inversión social, además de detallar la gestión financiera y de riesgos, así como las acciones medioambientales de Sodimac.",
+        "Ideas principales": "- Desafíos y logros de Falabella en 2020, con énfasis en la pandemia de COVID-19.\n- Adaptación a través de la digitalización y e-commerce.\n- Compromiso con clientes, colaboradores, accionistas, proveedores y la comunidad.\n- Prioridades estratégicas para crear valor sostenible.\n- Importancia de superar expectativas de los clientes y generar valor social.\n- Estrategia de gestión de personas enfocada en talento ágil y diversidad.\n- Mejora en la gestión de horarios y programas de inversión social.\n- Promoción de la sostenibilidad a través de iniciativas como Arte Falabella.\n- Ajustes estratégicos y análisis de inversiones por comités de estrategia.\n- Gestión de riesgos financieros y acciones medioambientales por Sodimac.",
+        "Keywords": "Falabella, Memoria Anual, 2020, COVID-19, digitalización, e-commerce, compromiso, sostenibilidad, gestión de personas, riesgos financieros"
+    },
+     {
+        "Fecha creación": "2021",
+        "Fecha guardado": "04/04/2024",
+        "Tipo documento": "Memoria Anual",
+        "Título": "Memoria Anual 2021 Falabella",
+        "Autor": "Falabella S.A.",
+        "Resumen": "La Memoria Anual 2021 de Falabella resalta los avances y logros de la empresa, con especial atención en su nuevo modelo de negocios digital. Se destaca el esfuerzo de los equipos, la adaptación al entorno y los buenos resultados en ventas y utilidades. Se enfatiza la importancia de la digitalización y la transformación hacia un ecosistema diferenciado. Además, se detalla la participación de mercado de Banco Falabella en países como Perú, Chile, Colombia y México, en colocaciones de consumo y tarjetas de crédito, con un enfoque en la transformación digital y el crecimiento en clientes digitales. También se incluye información sobre financiamiento de programas de MBA y masters, becas de estudio, planes de carrera y movilidad entre negocios y países. Se resumen las prácticas sostenibles implementadas por Falabella, las iniciativas de inclusión laboral, los programas de cumplimiento, las funciones de los comités de la sociedad, los logros y reconocimientos de Sodimac, las direcciones de sucursales en Chile y Perú, los estados financieros consolidados, las políticas contables, los activos intangibles, propiedades de inversión, pasivos, provisiones, beneficios a empleados, gestión de riesgos financieros, covenants financieros, contingencias legales y proyectos medioambientales. Asimismo, se proporciona información financiera relacionada con covenants financieros, bonos emitidos, deuda máxima permitida y activos esenciales de empresas como Sodimac, Plaza, Banco Falabella y negocios en Perú.",
+        "Ideas principales": "- Implementación de un nuevo modelo de negocios digital\n- Buenos resultados en ventas y utilidades\n- Transformación hacia un ecosistema potente y diferenciado\n- Crecimiento en clientes digitales y apertura de cuentas de forma 100% digital\n- Potenciación de modelos de riesgo con tecnologías de machine learning\n- Programas de MBA y masters en el extranjero\n- Certificaciones LEED Gold y Platinum en tiendas y centros comerciales\n- Medidas de eficiencia energética, uso responsable del agua y gestión de residuos\n- Programas de inclusión laboral y compromiso con la comunidad\n- Estructura corporativa de Inversiones Falabella Limitada y sus filiales.",
+        "Keywords": "- Falabella\n- Memoria Anual\n- digitalización\n- transformación\n- ventas\n- utilidades\n- ecosistema\n- Banco Falabella\n- Latinoamérica\n- participación de mercado"
+    },
+    {
+        "Fecha creación": "2022",
+        "Fecha guardado": "04/04/2024",
+        "Tipo documento": "Memoria Anual",
+        "Título": "Memoria Anual 2022 Falabella",
+        "Autor": "<Falabella S.A.>",
+        "Resumen": "La memoria anual de Falabella para el año 2022 resalta los logros, desafíos y estrategias de la empresa en cuanto a gobierno corporativo, creación de valor a largo plazo, cadena de valor, impacto social y ambiental, anexos y estados financieros. En el resumen se destaca la competencia en el negocio inmobiliario, el lanzamiento de MarketPlaza, el crecimiento del marketplace, la participación en el mercado financiero, la banca digital, los pagos y la estructura corporativa. Se informa sobre la gestión del comité de directores en la sociedad, incluyendo cambios en la composición del directorio y comités, así como la renuncia de Hernán Büchi Buc. Se describe el modelo de gestión de riesgos en Falabella, resaltando la importancia de la gestión de riesgos asociados al cambio climático y a la seguridad de los datos. Falabella ha implementado iniciativas para promover la diversidad, equidad e inclusión en su cultura organizacional, fomentando la igualdad de oportunidades para personas con discapacidad, migrantes y de la comunidad LGBTIQ+. Se detalla el proceso de identificación de temas materiales de sostenibilidad que podrían afectar el valor de la compañía, basado en estándares como SASB, TCFD y normativas locales. Se resume el avance de la construcción del almacén automatizado High-Bay Dry en Perú, así como las estrategias de crecimiento y expansión en diferentes países. Se destaca el éxito del programa Plaza Emprende en la promoción del emprendimiento a nivel regional en Chile. Se incluye una lista de sucursales de Falabella en diferentes países. Además, se presenta un resumen de los hechos esenciales del período, incluyendo la convocatoria a junta ordinaria de accionistas, aprobación de políticas y designación de auditores externos. Por último, se ofrece un informe detallado sobre la gestión y resultados de Falabella durante el año 2022, incluyendo aspectos de gobierno corporativo, cadena de valor, impacto social y ambiental, y estados financieros. La memoria anual de Falabella también proporciona información sobre activos, pasivos, patrimonio neto y estados financieros.",
+        "Ideas principales": "- Transformación digital y creación de un marketplace único en Falabella.\n- Importancia del comercio electrónico y adaptación a un entorno desafiante.\n- Estrategia de sostenibilidad y compromiso con la mitigación de impactos ambientales.\n- Avances en diferentes áreas de negocio como omnichannel retail, supermercados, mejoramiento del hogar, negocio inmobiliario, entre otros.\n- Visión de futuro enfocada en la simplificación y disfrute de la vida para los clientes.\n- Competencia en el negocio inmobiliario y lanzamiento de MarketPlaza.\n- Crecimiento del marketplace en Chile y Perú, participación en el mercado financiero en varios países.\n- Desarrollo de la banca digital, innovación en pagos con FPAY.\n- Estructura corporativa de Falabella y cambios en el comité de directores.\n- Gestión de riesgos, gobernanza, diversidad e inclusión, y programas de formación y desarrollo del talento.",
+        "Keywords": "Falabella, transformación digital, marketplace, sostenibilidad, impacto ambiental, omnichannel retail, supermercados, mejoramiento del hogar, negocio inmobiliario."
+    },
+    {
+        "Fecha creación": "April 21, 2023",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo sobre tendencias del retail en 2023",
+        "Título": "Tendencias del retail en 2023",
+        "Autor": "Simon Parisca",
+        "Resumen": "El artículo analiza las tendencias más importantes que dominarán la industria minorista en el próximo año, centrándose en la personalización, sostenibilidad, venta minorista omnicanal, inteligencia artificial, automatización y comercio social. Se destaca la importancia de adaptarse a las preferencias cambiantes de los consumidores y adoptar nuevas tecnologías para tener éxito en 2023.",
+        "Ideas principales": "1. La personalización es clave en la industria minorista, con un enfoque en entender las preferencias individuales de los consumidores.\n2. La sostenibilidad se ha vuelto fundamental, con minoristas adoptando prácticas respetuosas con el medio ambiente.\n3. La venta minorista omnicanal seguirá siendo relevante, permitiendo a los consumidores moverse entre canales en línea y fuera de línea.\n4. La inteligencia artificial y la automatización se utilizan para optimizar operaciones y mejorar la experiencia del cliente.\n5. El comercio social en plataformas de redes sociales es cada vez más importante para las ventas minoristas.",
+        "Keywords": "Retail, Tendencias, 2023, Personalización, Sostenibilidad, Omnicanal, Inteligencia Artificial, Automatización, Comercio Social"
+    },
+    {
+        "Fecha creación": "2022",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo",
+        "Título": "Phygital Retail: Qué es y lo que necesitas saber",
+        "Autor": "ContactPigeon",
+        "Resumen": "El artículo explora el concepto de Phygital Retail, que combina elementos de la experiencia de compra digital e in-personal para ofrecer una experiencia omnicanal personalizada a los clientes. Se destaca la importancia de esta estrategia para las empresas minoristas y se presentan ejemplos de marcas reconocidas que la han implementado con éxito.",
+        "Ideas principales": "- El Phygital Retail implica combinar elementos digitales y físicos para mejorar la experiencia de compra omnicanal.\n- Los clientes buscan una experiencia que combine la conveniencia del comercio en línea con los beneficios de la experiencia en persona.\n- Es importante para las marcas ofrecer una experiencia de usuario fluida tanto en compras en línea como en tiendas físicas.\n- Se presentan estrategias y ejemplos destacados de implementación de Phygital Retail por marcas reconocidas.",
+        "Keywords": "Phygital Retail, experiencia de compra, omnicanal, digital, in-personal, personalización, estrategias, marcas reconocidas"
+    },
+    {
+        "Fecha creación": "2022-10-20",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Artículo",
+        "Título": "Rethink Retail: La importancia de la tecnología en el sector minorista",
+        "Autor": "Desconocido",
+        "Resumen": "El artículo aborda la creciente competencia en el sector minorista, especialmente en el ámbito del comercio electrónico. Destaca la necesidad de estrategias innovadoras para ahorrar tiempo, aumentar ganancias y satisfacer las demandas de los consumidores. Se menciona la relevancia de los modelos de precios dinámicos y la automatización en la fijación de precios para mantener la competitividad.",
+        "Ideas principales": "- El comercio minorista se vuelve más competitivo con la saturación del mercado y el auge del comercio electrónico en 2020.\n- La automatización y los modelos de precios dinámicos son clave para adaptarse a la competencia y satisfacer las demandas del consumidor.\n- La recopilación de datos sobre precios de la competencia, niveles de stock y tendencias del mercado es fundamental para establecer benchmarks de precios.\n- La precisión en los modelos de precios es crucial en la era digital, donde los consumidores comparan precios en línea y cambian de proveedor fácilmente.\n- Omnia Retail destaca como empresa líder en software de precios dinámicos en Europa, ofreciendo soluciones integrales para marcas y minoristas.",
+        "Keywords": "Retail, comercio electrónico, precios dinámicos, automatización, competencia, consumidores, Omnia Retail"
+    },
+    {
+        "Fecha creación": "1/19/2024",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Blog",
+        "Título": "9 formas de mejorar la experiencia del cliente (y aumentar los ingresos)",
+        "Autor": "Steven Macdonald",
+        "Resumen": "El blog destaca la importancia de la experiencia del cliente en las empresas, mencionando que las compañías que implementan con éxito una estrategia de experiencia del cliente logran tasas más altas de satisfacción del cliente, reducción de la rotación de clientes e incremento de los ingresos. Se enfoca en la diferencia entre la experiencia del cliente y el servicio al cliente, así como en la importancia de crear una conexión emocional con los clientes y personalizar sus experiencias.",
+        "Ideas principales": "- Las empresas exitosas que implementan una estrategia de experiencia del cliente logran tasas más altas de satisfacción del cliente, reducción de la rotación de clientes e incremento de los ingresos.\n- La experiencia del cliente va más allá del servicio al cliente y se centra en fortalecer las relaciones a través de la tecnología.\n- Es crucial crear una conexión emocional con los clientes para fomentar la lealtad.\n- Capturar la retroalimentación del cliente en tiempo real y personalizar la experiencia son aspectos clave para mejorar la experiencia del cliente.\n- Se mencionan 9 formas de mejorar la experiencia del cliente, incluyendo la creación de una visión clara de la experiencia del cliente, la comprensión de quiénes son los clientes, y la implementación de un marco de calidad para el desarrollo del equipo, entre otros.",
+        "Keywords": "Experiencia del cliente, Estrategia, Satisfacción del cliente, Lealtad, Conexión emocional, Personalización, Retroalimentación del cliente, Mejora, Visión, Equipo"
+    },
+    {
+        "Fecha creación": "2022",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Consejos para el éxito en el comercio minorista",
+        "Título": "Top 10 consejos para el éxito en el comercio minorista",
+        "Autor": "Matthew Harris y Kimberly Palmer",
+        "Resumen": "El texto ofrece 10 consejos para el éxito en el comercio minorista en Australia, destacando la importancia de vender una marca en lugar de un producto, el diseño, el esfuerzo de marketing, la gestión de inventario, la selección de marcas, la experiencia del cliente, entre otros aspectos clave.",
+        "Ideas principales": "- Vender una marca, no un producto.\n- El diseño es crucial para el éxito del negocio.\n- El esfuerzo de marketing es recompensado.\n- Mantener un inventario completo para evitar ventas irregulares.\n- Seleccionar marcas únicas y reconocibles.\n- No tratar las ventas como transacciones únicas.\n- La importancia de la presentación de productos.\n- Buscar ahorros para ofrecer descuentos a los clientes.\n- Gestionar el inventario de manera eficiente.\n- Crear una experiencia memorable para los clientes.",
+        "Keywords": "comercio minorista, éxito, marca, diseño, marketing, inventario, marcas, experiencia del cliente"
+    },
+    {
+        "Fecha creación": "Jan 25, 2017",
+        "Fecha guardado": "12/03/2024",
+        "Tipo documento": "Blog",
+        "Título": "7 Good Habits of Highly Successful Retailers",
+        "Autor": "Kali Hawlk",
+        "Resumen": "El blog explora los 7 buenos hábitos de los minoristas altamente exitosos, que incluyen conocer su 'por qué', preocuparse por los clientes, crear sistemas y procesos, respaldar sus productos, contratar selectivamente, adaptarse a nuevas formas de aumentar las ventas y repensar los buenos hábitos.",
+        "Ideas principales": "- Conocer su 'por qué' y tener una visión clara\n- Preocuparse por los clientes y demostrarlo\n- Crear sistemas y procesos para una experiencia fluida\n- Respaldar los productos que ofrecen\n- Contratar selectivamente y alinear empleados con la misión\n- Adaptarse a nuevas formas de aumentar las ventas\n- Repensar los buenos hábitos y estar abiertos al cambio",
+        "Keywords": "minoristas, éxito, hábitos, clientes, sistemas, productos, empleados, ventas, cambio"
+    }
+]

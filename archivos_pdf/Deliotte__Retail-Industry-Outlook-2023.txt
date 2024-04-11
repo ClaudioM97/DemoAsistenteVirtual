@@ -1,0 +1,405 @@
+Deloitte.
+
+2023 retail industry outlook
+
+Contents
+
+Introduction
+
+Economic outlook for the retail industry
+
+A challenging environment
+
+Lessons from leaders
+
+mperatives for profitability
+
+Summary
+
+Endnotes
+
+KR
+
+WO
+
+OO
+
+Introduction
+
+Retailers should embrace the changing consumer and consider strategic investments that could enable profitable growth during inflationary times
+
+1
+
+In addition, many retailers face difficult year-over-year comparisons from nesting preferences during pandemic lockdowns that created a strong durable goods cycle. Other retailers benefited from government stimuli and consumers returning to work and school and are now left forecasting and providing guidance based on trends that can be difficult to decipher, if structural or episodic.
+
+But the retail outlook is not all gloom and doom; retailers have learned much about resiliency in the past few years. Massive demand fluctuations during the pandemic forced retailers to rethink archaic systems in favor of more pliable operations. Seemingly overnight, retailers rolled out health and safety protocols and established omnichannel capabilities. And they learned that rapidly evolving consumer preferences require more effective analytics and tools to build loyalty. If anything, the past few years should give executives confidence in their ability to weather the next storm
+
+The work for executives in 2023 is to advance the innovations created during the pandemic: to drive more profit from the curated experiences, last-mile options, and conveniences that retailers rolled out—all at a time when the purse strings may need to tighten.
+
+To check the pulse of retail executives, we asked 50 leaders about their expectations regarding challenges and opportunities in the upcoming year. We wanted to better understand what traits separate leaders from the rest of the pack and analyze planned strategies and investments for 2023. The results provide a unique outlook on how today's market, future expectations, and changing consumer needs inform strategies for the year(s) ahead.
+
+Economic outlook for the retail industry
+
+A note from Deloitte US Economists Danny Bachman and Akrur Barua
+
+Three key economic trends will likely influence retail sales.”
+
+3 In our 4 A
+
+5 6
+
+7
+
+Figure 1. While retail sales volume is slowing, nominal value
+
+Figure 2. Consumer spending in durables is expected to contract by 1.8% in 2023
+
+Index of retail sales (Feb 2020 = 100)
+
+Growth in PCE and components (%)
+
+5
+
+10
+
+Nominal value of retail sales Real retail sales
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 PCE Durable goods Nondurable goods Services
+
+Notes: The data is seasonally adjusted. Real retail sales are calculated by adjusting nominal sales with headline inflation Sources: United States Department of Commerce; Deloitte Services LP economic analysis.
+
+Notes: Forecasts are by the Deloitte US Economics team. Sources: United States Department of Commerce; Deloitte Services LP economic analysis.
+
+A challenging environment
+
+A changing relationship with consumers
+
+As noted in the economic outlook, shifting consumer behavior will likely weigh heavily on retailers in 2023. And other consumer transformations will likely compound the issue
+
+may come as no surprise that customer acquisition and retention
+
+This situation could become more problematic in 2023. Nearly all executives in our survey say consumers will expect a seamless shopping experience across channels in the upcoming year. But they expect consumers to be significantly more price-conscious, making consumers more likely to shift from source to source, powered by peer recommendations and price comparison shopping as they go.
+
+Figure 3. The changing consumer Wealth distribution
+
+12
+
+A millennial at age 40 has 13
+
+Rising obesity
+
+Falling birthrates
+
+16
+
+17
+
+10 In 11 As the
+
+a
+
+a
+
+14
+
+15
+
+Population
+
+in the past decade
+
+Increasing diversity
+
+• Organized retail theft: 20 Some retailers have and has gotten so dire that costs to cover lost products and 21 As many 22
+
+• ESG: 23
+
+• Labor issues: 24 25
+
+Lessons from leaders
+
+Retailers don't expect a one-size-fits-all solution to uncovering profitable growth in this environment, but we wanted to investigate whether top-performing retailers exhibit any common behaviors.
+
+26
+
+For those retailers that analysts expect to be top performers going forward, exposure to relatively resilient segments and strong balance sheets have bolstered their sentiment. In addition, meaningful progress on key long-term strategic initiatives to create efficiencies is seen in a favorable light:
+
+• Supply chain
+
+• Omnichannel and tapping into loyalty programs
+
+27
+
+Given these macro consumer shifts, sell-side Wall Street analysts are painting a bleak picture for the industry. Of the top 10 performing companies we examined, only three were predicted to have EPS growth over the next three years.
+
+• Digital
+
+Leaders have prioritized areas for moderate to major investments
+
+Unlike laggards, which are planning for minimal to moderate investments across areas, leaders tend to prioritize investment in areas such as marketing and merchandising, omnichannel capabilities, digital transformation, and supply chain
+
+Leaders vs. laggards
+
+Executive Survey: Identifying leaders and laggards
+
+We see these themes echoed when we examine leaders with self- reported top-line and operating margin growth expectations in our survey. Leaders tend to be data-driven and can swiftly respond to the changing consumer. They prioritize investments in marketing and merchandising, omnichannel capabilities, digital transformation, and supply chain. Given that many leaders are confident in their company’s ability to successfully execute business strategy and maintain or grow margins even in turbulent times, their methods may act as a road map to a more profitable future
+
+1. execute
+
+2. maintain
+
+3. Expectations revenue
+
+4. Expectations change
+
+Based on their aggregate scores, we split the sample of 50 respondents into three groups: Leaders (n=21) have the top one-third of scores, Laggards (n=18) have the bottom one-third of scores, while the remaining comprise the middle (n=11).
+
+Figure 4. Strategy† vs. investment‡ Position on chart indicates average across executives
+
+Planned investments in 2023
+
+Source: 2023 Deloitte retail outlook executive survey.
+
+Question: For the following strategies, please assess how advanced your company's strategy is relative to others in your industry.
+
+Averages are based on scores assigned; Strategy = (0) to Advanced (4); and Investments = (0) to Major (3).
+
+
+
+Imperatives for profitability
+
+The confluence of obstacles retailers face can make the next steps daunting. As such, we believe there are three key areas that retailers can—and should—consider now to help create efficiencies while addressing the changing consumer: last-mile capabilities, reverse logistics, and social commerce.
+
+Supply chain: Last-mile capabilities
+
+season 30
+
+consumer expectations and digital preferences that may create
+
+Last-mile guzzles profits
+
+31 32
+
+As these preferences for conveniences remain, retailers are left grappling with high-touch (e.g., picking, packing, and processing) transactions that are often unprofitable. Compounding the problem is that retailers may owe fees to third-party vendors that support the shopping journey with services, such as fit-predicting tools, product viewing technology, and financing. Companies pay more to grow their revenue in these channels, which, in turn, shrinks their profits, all at a time when consumer spending will likely contract.
+
+Retailers are in a tough spot as nearly all executives surveyed say 33
+
+34
+
+Omnichannel: Reverse logistics
+
+Changing consumer preferences for omnichannel services fueled 35 36 37
+
+their reverse logistics systems to create frictionless transactions to
+
+And AI
+
+Make returns frictionless
+
+40 41
+
+Figure 5. Reverse logistics recommendations
+
++
+
+blockchain to track transaction and return history
+
+Sell returned
+
+items instead of incurring costs to move them to
+
+Save a sale
+
+42
+
+that pack and ship returns for partnering retailers—there is an 43
+
+ae
+
+solutions to simplify return processes for stores and
+
+fulfillment centers
+
++
+
+a return bar to drive
+
+Hedge against
+
+shipping volatility
+
+multiple vendors
+
+Digital: Social commerce
+
+As retailers take stock of the changing consumer, six in 10 executives foresee strengthening digital commerce offerings as a top growth opportunity. Specifically, many see opportunities around social commerce, with six in 10 expecting consumers to purchase products directly on social media platforms in 2023
+
+44
+
+Creating brand loyalty and profitability
+
+45
+
+46
+
+Figure 6. Social commerce trends on the rise
+
+Digital adoption
+
+94.4% 37%
+
+6.8 hours 8.1 hours in 2021
+
+43% 31% in 202150
+
+channel that more than half of leaders and laggards agree that
+
+Social strategies for success
+
+47 and social commerce in technologies to provide a seamless purchasing experience
+
+Loyalty toward influencers can translate into loyalty toward brands Unfortunately, this extends to influencer controversies. To hedge against such risks, brands should build a real strategy involving diverse influencers from different walks of life and geographies that reflect the changing consumer.
+
+Social media influence
+
+more than 60% in the past decade51
+
+61% only 38% 52
+
+32% of Americans have made a purchase on a social media platform in the past year53
+
+Summary
+
+Despite the spate of bad economic news, the keyword among retailers is resiliency.
+
+They've done it before—not too long ago, during the worst pandemicrelated lockdowns and shortages— and they can do it again. Market challenges will always be a factor, and retailers are learning that they cannot rely on traditional cost-cutting alone to navigate the latest downturn. Instead, retailers should examine how they've been most productive in recent years, honing omnichannel, supply chain management, and digital commerce to protect margins and aim for profitability in the future. And the real X-factor is the rapidly evolving consumer. Ensuring the consumer experience is at the heart of investments may be the key to prospering when the dust finally settles
+
+Authors
+
+Nick Handrinos
+
+Vice Chairman and US Retail & Consumer Products Leader Deloitte LLP nhandrinos@deloitte.com +1 203 905 2723
+
+Lupine Skelly Research Leader
+
+Research Leader US Retail, Wholesale & Distribution Deloitte Services LP Iskelly@deloitte.com +1 206 716 7187
+
+Acknowledgments
+
+Endnotes
+
+This survey was commissioned by Deloitte and conducted online by an independent research company from October 21 to October 31, 2022. It polled a sample of 50 retail industry executives, of which 70% were from companies with annual revenues of $10 billion or more. The respondents included Gsuite and senior executives who were directly responsible or exerted significant influence on major strategic initiatives in their organization.
+
+Retail sales exclude sales at automobile and parts dealers, and gasoline stations, but include sales at food services and drinking places.
+
+All data is from US government agencies. Unless stated otherwise, all data is sourced through Haver Analytics
+
+Deloitte Insights
+
+Bureau of Labor Statistics (BLS), “Establishment survey,” sourced through Haver Analytics, accessed November 2022.
+
+Real retail sales are derived by deflating nominal sales by the Consumer Price Index (CPI) for all urban consumers.
+
+Consumer spending in this section refers to real spending, not nominal spending, unless mentioned otherwise.
+
+Neel Desai, “How is CAC changing over time?,” ProfitWell, August 14, 2019.
+
+The Guardian
+
+First Insight, “The state of consumer spending: Gen Z shoppers demand sustainable retail," press release, November 23, 2021
+
+Ibid.
+
+Alexandre Tanzi and Mike Dorning, "lop 1% of U.S. earners now hold more wealth than all of the middle class," Bloomberg, October 8, 2021.
+
+Olivia Rockeman and Catarina Saraiva, “Millennials are running out of time to build wealth,” Bloomberg, June 3, 2021
+
+Insider Intelligence
+
+The geographic distribution of extreme wealth in the U.S.
+
+Trust for America’s Health, "State of obesity 2022: Better po icies for a healthier America,” press release, September 27, 2022.
+
+New York Times
+
+United States Census Bureau, "65 and older population grows rapidly as baby boomers age,” June 25, 2020.
+
+Richard Fry and Kim Parker, “Early benchmarks show ‘post-millennials’ on track to be most diverse, best-educated generation yet," PEW Research Center, November 15, 2018
+
+20 National Retail Federation (NRF), “Retail shrink totaled $61.7 billion in 2019 amid rising employee theft and shoplifting/ORC,” press release, July 14, 2020.
+
+21 Marc Cota-Robles and David Gonzalez, “Retail theft at Walmart may lead to raised orices and store closures, CEO says,” ABC7 News, December 7, 2022
+
+Multichannel Merchant
+
+MIT Sloan Management Review
+
+24, US Department of Commerce, “Job openings: Retail trade," accessed November 30, 2022.
+
+25. Federal Reserve Bank of Atlanta, “Wage Growth Tracker," accessed December 11, 2022
+
+Criteria 1: Nine retailers featured in the top 30th percentile across the following metrics
+
++ 3-year EBITDA margin
+
+Seeking Alpha, “Costco Wholesale Corporation (COST) Q? 2023 earnings call transcript," Costco Wholesale Corporation, December 8, 2022.
+
+California ports logjam eases after holiday import rush Financial Times
+
+29. Melissa Repko, “Retailers' biggest holiday wish is to get rid of all that excess inventory," CNBC News, November 13, 2022.
+
+The Guardian
+
+2021 Deloitte holiday retail survey
+
+Insider Intelligence
+
+33. Melissa Repko, “Out of stock’ items plague grocery delivery services, Personal shoppers at Target's Shipt aim to fix that," CNBC News, October 12, 2021
+
+34. Tom Ward, “From ground-breaking to breaking ground: Walmart begins to scale market fulfill ment centers,” Walmart Inc., January 27, 2021.
+
+35 Frank Holland, “Retailers face rising holiday-return costs due to supply chain issues, a new report says,” CNBC News, December 16, 2021.
+
+Social Commerce Returns Playbook
+
+37. NRF, “Retail returns increased to $761 billion in 2021 as a result of overall sales growth," press release, January 25, 2022
+
+VRARA, "VRARGS: VNTANA; Leverage 3D to create more engaging digital experiences during quarantine,” video, 16:56, June 2, 2020.
+
+MIT Technology Review
+
+FreightWaves
+
+41. LiveAgent, “About | veAgent,” accessed November 24, 2022
+
+42. Parija Kavilanz, “Just keep your returns: Stores weigh paying you not to bring back unwanted items,” CNN Business, June 26, 2022.
+
+Forbes
+
+2022 Deloitte holiday retail survey
+
+45. Jordan Ehrlich, “Customer acauisition costs by industry: What's a good CAC?," Demandjump, April 19, 2019.
+
+Social Media Today
+
+47. Deloitte, “Holiday retail trends show spending is alive and well," accessed November 25, 2022.
+
+Insider Intelligence
+
+49, Statista, "Average time spent per day with digital media in the United States from 2011 to 2024," accessed December 2, 2022.
+
+50. Matt Schulz, “42% of buy now, pay later users have made a late payment," Lending Tree, April 18, 2022.
+
+Digital 2022: Global overview report
+
+pandemic
+
+53 Joseph Gilligan and Minos Makris, “Social commerce: The online sales channel to trump all others?,” Wunderman Thompson, accessed December 12, 2022
+
+Deloitte.
+
+About Deloitte
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL’), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as “Deloitte Global”) does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the "Deloitte” name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see www.deloitte.com/about to learn more about our global network of member firms.
+
+Copyright © 2023 Deloitte Development LLC. All rights reserved
