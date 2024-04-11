@@ -2,6 +2,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.vectorstores import Chroma
 import chromadb
+import chromadb.config
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain_community.document_loaders import TextLoader
