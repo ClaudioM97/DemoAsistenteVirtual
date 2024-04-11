@@ -65,10 +65,17 @@ if "loaded" not in st.session_state:
 
 st.title("👀 Explora los documentos precargados")
 
+st.markdown('''Con esta funcionalidad vas a poder ingresar tu consulta sobre cualquiera de los documentos precargados. A continuación se presentará un gráfico con los segmentos de texto más idóneos que responden a esa consulta, junto con el documento desde el cual provienen.
+                El objetivo final es que puedas identificar, asociar, e ir a consultar de forma directa los documentos que se parecen más a tu pregunta o tema de interés. Es importante notar que la IA no responde directamente lo que aparece en estos segmentos, solo los usa como contexto para cumplir mejor su función de chatbot.
+
+                ''')
+
 col1, col2 = st.columns(2)
 st.session_state['query'] = col1.text_area("Ingresa tu consulta aquí")
-st.session_state['technique'] = col1.radio("Selecciona la técnica de retrieval", ["Estándar", "HyDE", "Multi_qns"], horizontal=True)
-st.session_state['top_k'] = col1.number_input("Top k", value=5, min_value=1, max_value=10, step=1)
+st.session_state['technique'] = 'Estándar'
+st.session_state['top_k'] = col1.select_slider('Segmentos de texto a recuperar', options=[1,2,3,4,5], value=3)
+#st.session_state['technique'] = col1.radio("Selecciona la técnica de retrieval", ["Estándar", "HyDE", "Multi_qns"], horizontal=True)
+#st.session_state['top_k'] = col1.number_input("Top k", value=5, min_value=1, max_value=10, step=1)
 
 if not st.session_state['loaded']:
     main_page = st.empty()
