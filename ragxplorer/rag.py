@@ -166,7 +166,7 @@ def load_txt_clean():
     return contenidos_archivos
  
 def get_collection():
-    chroma_client = chromadb.PersistentClient(path="../chroma_final")
+    chroma_client = chromadb.PersistentClient(path="chroma_final")
     collection = chroma_client.get_or_create_collection('docs_publicos')
     return collection
      
@@ -195,7 +195,7 @@ def coleccion(dict):
                    ids=dict['ids'])
     return collection
 
-def get_docs_2(dict) -> List[str]:
+def get_docs_2(coleccion) -> List[str]:
     """
     Retrieves the documents from the Chroma collection.
     
@@ -205,8 +205,8 @@ def get_docs_2(dict) -> List[str]:
     Returns:
         A list of documents.
     """
-    documents = dict['documents']
-    metadata = dict['metadatas']
+    documents = coleccion.get(include=['documents'])['documents']
+    metadata = coleccion.get(include=['metadatas'])['metadatas']
     documentos_modificados = []
     
     for document, metadata in zip(documents, metadata):
