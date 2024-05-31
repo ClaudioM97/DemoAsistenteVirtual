@@ -12,6 +12,7 @@ from langchain.prompts import SystemMessagePromptTemplate, HumanMessagePromptTem
 from langchain.memory import ConversationSummaryMemory
 from langchain.memory import ConversationBufferMemory
 from langchain.memory import ConversationBufferWindowMemory
+from langchain_community.document_loaders import PyPDFLoader
 from unstructured.cleaners.core import clean
 import pytesseract 
 from unidecode import unidecode
