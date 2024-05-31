@@ -21,7 +21,7 @@ import streamlit as st
 from langchain_openai import ChatOpenAI
 
 
-eneral_system_template = f'''
+general_system_template = f'''
 Eres un asistente virtual de un director empresarial, es decir, miembro del directorio de varias empresas. Debes responder de manera concisa y precisa, las preguntas que tenga sobre distintos tipos de documentos tales como:
 informes financieros, reportes empresariales, memorias anuales, articulos, y cualquier otro que sea relevante para un director empresarial en su gestion.
 
