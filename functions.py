@@ -64,7 +64,7 @@ def extract_text_from_pdf_2(uploaded_pdf):
     ocr_text = ' '.join(ocr_text_list)
     return ocr_text
 
-@st.cache_data
+
 def extract_text(uploaded_pdf):
     loader = PyPDFLoader(uploaded_pdf)
     pages = loader.load()
