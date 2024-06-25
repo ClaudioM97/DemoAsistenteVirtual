@@ -70,11 +70,11 @@ def extract_text(uploaded_pdf):
 
     return text
 
-@st.cache_data
+
 def clean_text(ocr_text_from_pdf):
     return clean(ocr_text_from_pdf,extra_whitespace=True,trailing_punctuation=True,lowercase=True)
 
-@st.cache_data
+
 def get_text_chunks(text):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=1500,
