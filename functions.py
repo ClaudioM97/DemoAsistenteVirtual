@@ -177,7 +177,7 @@ def display_in_pairs(data):
 def get_vdb():
     #persist_directory = '/Users/claudiomontiel/Desktop/Proyectos VS/PruebaStreamlit/chroma_st'
     #embeddings = OpenAIEmbeddings(model = 'text-embedding-3-large')
-    vectordb = Chroma(persist_directory="chroma_st",
+    vectordb = Chroma(persist_directory="chroma",
                       embedding_function=embeddings)
     return vectordb
     
