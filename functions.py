@@ -103,7 +103,13 @@ def load_memory(st):
 @st.cache_resource
 def get_conversation_chain(text_chunks):
     #embeddings = OpenAIEmbeddings(model = 'text-embedding-3-small')
-    vectorstore = Chroma.from_texts(text_chunks, embeddings)
+    embeddingss = AzureOpenAIEmbeddings(
+        azure_deployment=os.getenv('AZURE_DEPLOYMENT'),
+        openai_api_version=os.getenv("API_VERSION_GPT3"),
+        api_key=os.getenv("OPENAI_APIKEY_GPT3"),
+        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT_GPT3")
+    )
+    vectorstore = Chroma.from_texts(text_chunks, embeddingss)
     #vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     
     template = """
