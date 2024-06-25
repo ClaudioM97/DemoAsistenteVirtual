@@ -100,7 +100,7 @@ def load_memory(st):
 
     return memory
 
-@st.cache_resource
+
 def get_conversation_chain(text_chunks):
     #embeddings = OpenAIEmbeddings(model = 'text-embedding-3-small')
     embeddingss = AzureOpenAIEmbeddings(
