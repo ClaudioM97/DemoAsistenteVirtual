@@ -21,6 +21,7 @@ import os
 import streamlit as st
 from langchain_openai import ChatOpenAI
 from langchain_openai import AzureOpenAIEmbeddings
+from langchain_openai import AzureChatOpenAI
 
 modelo = AzureChatOpenAI(api_key=os.getenv("AZURE_OPENAI_API_KEY"),
                         azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
