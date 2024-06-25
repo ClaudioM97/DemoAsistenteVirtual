@@ -20,6 +20,20 @@ from pdf2image import convert_from_bytes
 import os
 import streamlit as st
 from langchain_openai import ChatOpenAI
+from langchain_openai import AzureOpenAIEmbeddings
+
+modelo = AzureChatOpenAI(api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+                        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
+                        azure_deployment=os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT_NAME"),
+                        api_version="2024-02-15-preview",
+                        temperature=0)
+
+embeddings = AzureOpenAIEmbeddings(
+        azure_deployment=os.getenv('AZURE_DEPLOYMENT'),
+        openai_api_version=os.getenv("API_VERSION_GPT3"),
+        api_key=os.getenv("OPENAI_APIKEY_GPT3"),
+        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT_GPT3")
+    )
 
 
 general_system_template = f'''
@@ -41,28 +55,6 @@ messages = [
             HumanMessagePromptTemplate.from_template(general_user_template)
 ]
 qa_prompt = ChatPromptTemplate.from_messages(messages)
-
-@st.cache_data
-def extract_text_from_pdf(uploaded_pdf):
-    images = convert_from_bytes(uploaded_pdf.getvalue())
-    ocr_text_list = []
-    for i, image in enumerate(images):
-        page_content = pytesseract.image_to_string(image)
-        page_content = '***PDF Page {}***\n'.format(i+1) + page_content
-        ocr_text_list.append(page_content)
-    ocr_text = ' '.join(ocr_text_list)
-    return ocr_text
-
-@st.cache_data
-def extract_text_from_pdf_2(uploaded_pdf):
-    images = convert_from_bytes(uploaded_pdf)
-    ocr_text_list = []
-    for i, image in enumerate(images):
-        page_content = pytesseract.image_to_string(image)
-        page_content = '***PDF Page {}***\n'.format(i+1) + page_content
-        ocr_text_list.append(page_content)
-    ocr_text = ' '.join(ocr_text_list)
-    return ocr_text
 
 
 def extract_text(uploaded_pdf):
@@ -91,13 +83,6 @@ def get_text_chunks(text):
     return chunks
 
 
-def get_vectorstore(text_chunks):
-    embeddings = OpenAIEmbeddings(model = 'text-embedding-3-small')
-    #vectorstore = Chroma.from_documents(text_chunks, embeddings)
-    vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
-    return vectorstore
-
-
 def load_memory(st):
     memory = ConversationBufferWindowMemory(k=3, return_messages=True)
     if "messages" not in st.session_state:
@@ -116,7 +101,7 @@ def load_memory(st):
 
 @st.cache_resource
 def get_conversation_chain(text_chunks):
-    embeddings = OpenAIEmbeddings(model = 'text-embedding-3-small')
+    #embeddings = OpenAIEmbeddings(model = 'text-embedding-3-small')
     vectorstore = Chroma.from_texts(text_chunks, embeddings)
     #vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     
@@ -133,9 +118,11 @@ def get_conversation_chain(text_chunks):
     QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
         
     conversation_chain = ConversationalRetrievalChain.from_llm(
-        llm=ChatOpenAI(model_name='gpt-3.5-turbo-0125', temperature=0),
+        llm=modelo,
+        #llm=ChatOpenAI(model_name='gpt-3.5-turbo-0125', temperature=0),
         retriever=vectorstore.as_retriever(search_type = 'mmr'),
-        condense_question_llm=ChatOpenAI(model_name="gpt-3.5-turbo-0125"),
+        condense_question_llm=modelo,
+        #condense_question_llm=ChatOpenAI(model_name="gpt-3.5-turbo-0125"),
         condense_question_prompt=QA_CHAIN_PROMPT,
         combine_docs_chain_kwargs={'prompt': qa_prompt}
     )
@@ -182,7 +169,7 @@ def display_in_pairs(data):
 #@st.cache_resource
 def get_vdb():
     #persist_directory = '/Users/claudiomontiel/Desktop/Proyectos VS/PruebaStreamlit/chroma_st'
-    embeddings = OpenAIEmbeddings(model = 'text-embedding-3-large')
+    #embeddings = OpenAIEmbeddings(model = 'text-embedding-3-large')
     vectordb = Chroma(persist_directory="chroma_st",
                       embedding_function=embeddings)
     return vectordb
@@ -203,9 +190,11 @@ def qa_chain(vectordb,k):
     QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
         
     conversation_chain = ConversationalRetrievalChain.from_llm(
-        llm=ChatOpenAI(model_name='gpt-3.5-turbo-0125', temperature=0),
+        llm=modelo,
+        #llm=ChatOpenAI(model_name='gpt-3.5-turbo-0125', temperature=0),
         retriever=vectordb.as_retriever(search_type = 'mmr',search_kwargs={"k": k}),
-        condense_question_llm=ChatOpenAI(model_name="gpt-3.5-turbo-0125"),
+        condense_question_llm=modelo,
+        #condense_question_llm=ChatOpenAI(model_name="gpt-3.5-turbo-0125"),
         condense_question_prompt=QA_CHAIN_PROMPT,
         combine_docs_chain_kwargs={'prompt': qa_prompt}
     )
