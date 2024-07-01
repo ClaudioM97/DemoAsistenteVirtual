@@ -82,13 +82,7 @@ with st.container():
                 ''',unsafe_allow_html=True)
     
 with st.container():
-    st.subheader('3. Explora los documentos precargados')
-    st.markdown('''Con esta funcionalidad vas a poder ingresar tu consulta sobre cualquiera de los documentos precargados. A continuación se presentará un gráfico con los segmentos de texto más idóneos que responden a esa consulta, junto con el documento desde el cual provienen.
-                El objetivo final es que logres identificar y asociar los documentos que responden de mejor manera las preguntas que tengas.
-                ''')
-    
-with st.container():
-    st.subheader('4. Prueba con tu propio documento')
+    st.subheader('3. Prueba con tu propio documento')
     st.markdown('''En este apartado podrás cargar tu propio documento en formato PDF para que nuestro asistente virtual responda todas las preguntas que tengas sobre este.
                 Además, puedes solicitarle tareas que vayan mas allá de preguntas sobre determinados tópicos. Por ejemplo, puedes pedir que realice resuménes, extraiga información relevante, analice secciones específicas del documento, entre otras.
                 El objetivo final es que puedas identificar, asociar, e ir a consultar de forma directa los documentos que se parecen más a  tu pregunta o tema de interés. Es importante notar que la IA no responde directamente lo que aparece en estos segmentos, sólo los usa como contexto para darte la respuesta en la función de chatbot.<br><br>
