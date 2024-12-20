@@ -22,19 +22,19 @@ import streamlit as st
 from langchain_openai import ChatOpenAI
 from langchain_openai import AzureOpenAIEmbeddings
 from langchain_openai import AzureChatOpenAI
+from langchain_openai import OpenAIEmbeddings
 
 modelo = AzureChatOpenAI(api_key=os.getenv("AZURE_OPENAI_API_KEY"),
                         azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-                        azure_deployment=os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT_NAME"),
+                        azure_deployment=os.getenv("AZURE_OPENAI_MODEL"),
                         api_version="2024-02-15-preview",
                         temperature=0)
 
-embeddings = AzureOpenAIEmbeddings(
-        azure_deployment=os.getenv('AZURE_DEPLOYMENT'),
-        openai_api_version=os.getenv("API_VERSION_GPT3"),
-        api_key=os.getenv("OPENAI_APIKEY_GPT3"),
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT_GPT3")
-    )
+embeddings = OpenAIEmbeddings(
+    api_key='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'
+    model = 'text-embedding-3-large'
+
+)
 
 
 general_system_template = f'''
