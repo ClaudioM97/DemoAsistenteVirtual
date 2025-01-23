@@ -31,9 +31,8 @@ modelo = AzureChatOpenAI(api_key=os.getenv("AZURE_OPENAI_API_KEY"),
                         temperature=0)
 
 embeddings = OpenAIEmbeddings(
-    api_key='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'
-    model = 'text-embedding-3-large'
-
+    api_key=os.getenv("AZURE_OPENAI_EMBEDDINGS"),
+    model='text-embedding-3-large'
 )
 
 
