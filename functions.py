@@ -32,7 +32,7 @@ modelo = AzureChatOpenAI(api_key=os.getenv("AZURE_OPENAI_API_KEY"),
 
 embeddings = OpenAIEmbeddings(
     api_key=os.getenv("AZURE_OPENAI_EMBEDDINGS"),
-    model='text-embedding-3-large'
+    model=os.getenv("MODEL_EMBEDDINGS")
 )
 
 
